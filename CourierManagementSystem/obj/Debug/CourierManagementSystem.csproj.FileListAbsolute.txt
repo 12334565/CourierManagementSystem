@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\bin\Debug\CourierManagementSystem.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\bin\Debug\CourierManagementSystem.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\bin\Debug\CourierManagementSystem.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\obj\Debug\CourierManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\obj\Debug\CourierManagementSystem.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\obj\Debug\CourierManagementSystem.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\obj\Debug\CourierManagementSystem.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\obj\Debug\CourierManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\obj\Debug\CourierManagementSystem.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\obj\Debug\CourierManagementSystem.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\obj\Debug\CourierManagementSystem.csproj.CopyComplete
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CourierManagementSystem\CourierManagementSystem\obj\Debug\CourierManagementSystem.Dashboard.resources
